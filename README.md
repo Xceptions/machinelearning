@@ -1,2 +1,3 @@
 # machinelearning
-folder for my machine learning models
+this folder contains my machine learning models
+
